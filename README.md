@@ -40,6 +40,8 @@ Acesse o projeto no navegador em http://127.0.0.1:8000/
 ### 7. Grupo
 
 1. Carlos Henrique
+2. Fabiola Melo
+3. Fabricio Souza
 
 
 
